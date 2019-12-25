@@ -1,0 +1,6 @@
+C:\Users\Abdulkadir Karakus\source\repos\Conways.Game.Of.Life\Conways.Game.Of.Life\bin\Debug\Conways.Game.Of.Life.exe.config
+C:\Users\Abdulkadir Karakus\source\repos\Conways.Game.Of.Life\Conways.Game.Of.Life\bin\Debug\Conways.Game.Of.Life.exe
+C:\Users\Abdulkadir Karakus\source\repos\Conways.Game.Of.Life\Conways.Game.Of.Life\bin\Debug\Conways.Game.Of.Life.pdb
+C:\Users\Abdulkadir Karakus\source\repos\Conways.Game.Of.Life\Conways.Game.Of.Life\obj\Debug\Conways.Game.Of.Life.csprojAssemblyReference.cache
+C:\Users\Abdulkadir Karakus\source\repos\Conways.Game.Of.Life\Conways.Game.Of.Life\obj\Debug\Conways.Game.Of.Life.exe
+C:\Users\Abdulkadir Karakus\source\repos\Conways.Game.Of.Life\Conways.Game.Of.Life\obj\Debug\Conways.Game.Of.Life.pdb

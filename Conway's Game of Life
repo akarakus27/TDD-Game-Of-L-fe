@@ -1,0 +1,24 @@
+Yaşam olarak da bilinen yaşam oyunu, 1970 yılında İngiliz matematikçi John Horton Conway tarafından geliştirilen bir hücresel otomat.
+
+Oyun sıfır oyunculu bir oyundur , yani evrimi başlangıç durumuna göre belirlenir ve daha fazla girdi gerektirmez.
+Bir ilk yapılandırma oluşturma ve nasıl geliştiğini gözlemleyerek yaşam Oyunu ile etkileşime girer.
+
+Kurallar
+
+Yaşam oyununun evreni, her biri canlı ya da ölü (ya da sırasıyla doldurulmuş ve doldurulmamış) iki olası durumdan birinde bulunan sonsuz , iki boyutlu ortogonal Kare hücre ızgarasıdır.
+Her hücre, yatay, dikey veya çapraz olarak bitişik olan hücreler olan sekiz komşusuyla etkileşime girer. 
+Her adımda, aşağıdaki geçişler oluşur:
+
+1.İkiden az canlı komşusu olan herhangi bir canlı hücre, düşük nüfus gibi ölür.
+2.İki ya da üç canlı komşusu olan herhangi bir canlı hücre, yeni nesle yaşıyor.
+3.Üçten fazla canlı komşusu olan herhangi bir canlı hücre, aşırı nüfus gibi ölür.
+4.Tam olarak üç canlı komşusu olan herhangi bir ölü hücre, üreme gibi canlı bir hücre haline gelir.
+5.Otomatın davranışını gerçek hayatla karşılaştıran bu kurallar Aşağıdakilere yoğunlaşabilir:
+
+1.İki veya üç komşusu olan herhangi bir canlı hücre hayatta kalır.
+2.Üç canlı komşusu olan herhangi bir ölü hücre canlı bir hücre haline gelir.
+Diğer tüm canlı hücreler gelecek nesilde ölür. Benzer şekilde, diğer tüm ölü hücreler ölü kalır.
+3.İlk model, sistemin tohumunu oluşturur.
+İlk nesil, yukarıdaki kuralları aynı anda tohumdaki her hücreye uygulayarak oluşturulur; doğumlar ve ölümler aynı anda meydana gelir ve bunun gerçekleştiği ayrık an bazen bir kene olarak adlandırılır.
+Her nesil, öncekinin saf bir işlevidir. 
+Kurallar, daha fazla nesil oluşturmak için tekrar tekrar uygulanmaya devam eder.

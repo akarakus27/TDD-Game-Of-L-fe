@@ -1,0 +1,8 @@
+C:\Users\Abdulkadir Karakus\source\repos\Conways.Game.Of.Life\Conway.Library\bin\Debug\netstandard2.0\Conway.Library.deps.json
+C:\Users\Abdulkadir Karakus\source\repos\Conways.Game.Of.Life\Conway.Library\bin\Debug\netstandard2.0\Conway.Library.dll
+C:\Users\Abdulkadir Karakus\source\repos\Conways.Game.Of.Life\Conway.Library\bin\Debug\netstandard2.0\Conway.Library.pdb
+C:\Users\Abdulkadir Karakus\source\repos\Conways.Game.Of.Life\Conway.Library\obj\Debug\netstandard2.0\Conway.Library.csprojAssemblyReference.cache
+C:\Users\Abdulkadir Karakus\source\repos\Conways.Game.Of.Life\Conway.Library\obj\Debug\netstandard2.0\Conway.Library.AssemblyInfoInputs.cache
+C:\Users\Abdulkadir Karakus\source\repos\Conways.Game.Of.Life\Conway.Library\obj\Debug\netstandard2.0\Conway.Library.AssemblyInfo.cs
+C:\Users\Abdulkadir Karakus\source\repos\Conways.Game.Of.Life\Conway.Library\obj\Debug\netstandard2.0\Conway.Library.dll
+C:\Users\Abdulkadir Karakus\source\repos\Conways.Game.Of.Life\Conway.Library\obj\Debug\netstandard2.0\Conway.Library.pdb

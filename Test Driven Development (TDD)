@@ -1,0 +1,30 @@
+Test Driven Development 
+
+Kent Beck tarafından Extreme Programming’in bir parçası olarak bulunmuş olan bir programlama tekniğidir. 
+Tarih açısından bakacak olursak 1994 yılında Beck, Smalltalk için SUnit test framework’ünü yazmıştır. 
+1998 yılında XP’de “testleri çoğunlukla ilk sırada yazmalıyız” diye ifade ettiği Test First kavramını ortaya artmıştır. 
+2002 Kasım’ında piyasaya çıkan Test Driven Development: By Example isimli kitabında Test-First kavramını Test Driven Development olarak daha da detaylı bir teknik olarak ele alınmıştır.
+
+Üzerinden 15 yıl geçmiş olmasına rağmen TDD öğrenmek isteyenlere hala bir başucu kılavuzu olarak yer almaktadır.
+
+Neden?
+
+Test kodu yazmak genelde gereksiz, çok zaman alan, maliyetli ve öğrenmesi/uygulaması zor olarak görülür.
+Bu yüzden bir çok kişi/şirket TDD’den kaçınmayı tercih ediyor.
+Aslında düşünüldüğünde, TDD uygulandığında az önce saydığım etkenlerden uzun vadede daha karlı çıkılacağı artık bilinmeyen birşey değil.
+ 
+1.Bir test yazılır.
+
+2.Test başarısız olur.
+
+3.Test başarılı hale getirilir.
+
+4.Mevcut bütün testlerin başarılı olması sağlanır.
+
+5.Kod refactor edilir. Yani kodda iyileştirme ve(ya) temizleme yapılır.
+
+Bu bağlamda önceden kodu yazıp sonradan bunların testini yazmanın TDD olamadığını özellikle belirtmek gerekmektedir. 
+TDD’de mutlaka ama mutlaka test ilk sırada yazılmalıdır.
+
+
+ 
